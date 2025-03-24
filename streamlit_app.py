@@ -169,9 +169,9 @@ status_container = st.empty()
 
 def run_research(inputs: dict) -> str:
     # API Configuration
-    base_url = "https://supplier-project-ace82666-4e29-4243-bee7-20-041fa50c.crewai.com"
+    base_url = "https://supplier-project-9dc2623f-a463-4452-85cc-93-dba3df9c.crewai.com"
     headers = {
-        "Authorization": "Bearer eeb8806ad6d4",
+        "Authorization": "Bearer 1ac66a78f41d",
         "Content-Type": "application/json"
     }
 
